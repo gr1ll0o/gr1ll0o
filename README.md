@@ -6,10 +6,12 @@
 
 **Desarrollador Web & Software · Linux · Ciberseguridad**
 
-Me gusta entender cómo funcionan las cosas, romperlas, arreglarlas y convertir ideas en proyectos reales.
+Me gusta entender cómo funcionan las cosas, romperlas, arreglarlas<br>
+y convertir ideas en proyectos reales.
 
-[![GitHub](https://img.shields.io/badge/GitHub-gr1ll0o-181717?style=flat-square\&logo=github)](https://github.com/gr1ll0o)
-[![Portfolio](https://img.shields.io/badge/Portfolio-32c1d7?style=flat-square\&logo=googlechrome\&logoColor=white)](https://grill0.netlify.app/)
+[![VISITÁ MI PORTFOLIO](https://img.shields.io/badge/VISITÁ_MI_PORTFOLIO-e01f83?style=flat-square&logo=netlify&logoColor=white)](https://grill0.netlify.app/)
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,electron,html,css,c,linux,bash,git,docker,arduino&theme=dark"/>
 
 </div>
 
@@ -17,29 +19,18 @@ Me gusta entender cómo funcionan las cosas, romperlas, arreglarlas y convertir 
 
 ### `> sobre mí`
 
-💻 Desarrollo **software y aplicaciones web**
-🐧 Usuario de **Linux** y entusiasta de sistemas
-🔐 Actualmente aprendiendo **ciberseguridad y redes**
-🎓 **Técnico en Computación** en formación
-🎸 Guitarrista · 💿 amante de la música · ☕ café
+🎓 **Técnico en Computación** en formación · 💻 Desarrollo **software escritorio y aplicaciones web**<br>
+🐧 Usuario de **Linux** · 🎸 Guitarrista · 💿 Amante de la música · ☕ y el Café
 
-### `> stack`
+### `> actualmente`
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,c,bash,linux,git,github,docker,arduino,electron&theme=dark" />
-
----
-
-### `> algunos proyectos`
-
-**📻 FREEQNCY** — Radio online autohospedada 24/7
-**💿 Obinion** — Sitio personal de reseñas musicales
-**💡 Col-Fi** — Proyecto de transmisión de información mediante luz
-**✉️ cricket** — Aplicación de escritorio para gestión y envío de emails
+🔐 Aprendiendo **ciberseguridad y redes** · 🐧 Profundizando en **Linux y sistemas**<br>
+🛠️ Construyendo proyectos para **aprender haciendo**
 
 ---
 
 <div align="center">
-
-**coded with love & coffee ☕**
+  
+**coding with love & tons of coffee ☕**
 
 </div>
