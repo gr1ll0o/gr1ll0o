@@ -22,7 +22,7 @@ y convertir ideas en proyectos reales.
 🎓 **Técnico en Computación** en formación · 💻 Desarrollo **software escritorio y aplicaciones web**<br>
 🐧 Usuario de **Linux** · 🎸 Guitarrista · 💿 Amante de la música · ☕ y el Café
 
-### `> actualmente`
+### `> actualmente...`
 
 🔐 Aprendiendo **ciberseguridad y redes** · 🐧 Profundizando en **Linux y sistemas**<br>
 🛠️ Construyendo proyectos para **aprender haciendo**
